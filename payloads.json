@@ -1,0 +1,110 @@
+{
+    "activate_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.on_off",
+                "instance": "powerSwitch",
+                "value": 1
+            }
+        }
+    },
+    "deactivate_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.on_off",
+                "instance": "powerSwitch",
+                "value": 0
+            }
+        }
+    },
+    "blue_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.color",
+                "instance": "colorRgb",
+                "value": 255
+            }
+        }
+    },
+    "green_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.color",
+                "instance": "colorRgb",
+                "value": 65280
+            }
+        }
+    },
+    "red_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.color",
+                "instance": "colorRgb",
+                "value": 16711680
+            }
+        }
+    },
+    "violet_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.color",
+                "instance": "colorRgb",
+                "value": 8388736
+            }
+        }
+    },
+    "yellow_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.color",
+                "instance": "colorRgb",
+                "value": 16776960
+            }
+        }
+    },
+    "orange_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.color",
+                "instance": "colorRgb",
+                "value": 16747520 
+            }
+        }
+    },
+    "white_payload": {
+        "requestId": "UUID_PLACEHOLDER",
+        "payload": {
+            "sku": "MODEL_PLACEHOLDER",
+            "device": "DEVICE_PLACEHOLDER",
+            "capability": {
+                "type": "devices.capabilities.color",
+                "instance": "colorRgb",
+                "value": 16119285
+            }
+        }
+    }
+}
